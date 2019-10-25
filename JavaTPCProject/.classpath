@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="C:/JavaTPC/lib/commons-collections4-4.2.jar"/>
 	<classpathentry kind="lib" path="C:/JavaTPC/lib/poi-4.0.1.jar"/>
 	<classpathentry kind="lib" path="C:/JavaTPC/lib/itextpdf-5.5.13.jar"/>
+	<classpathentry kind="lib" path="C:/JavaTPC/lib/org.eclipse.paho.client.mqttv3-1.2.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
